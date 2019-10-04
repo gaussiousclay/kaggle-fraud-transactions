@@ -2,6 +2,7 @@
 """Autoencoders on Large Transacational Datasets
     created by:sailesh mohanty
     created on: August 12,2019
+    colab notebook at - https://colab.research.google.com/drive/1u7WC79HEfsNC40RJyUw-wBNkF8Ew8J5R?authuser=2
 """
 
 #@title Install PyDrive Requirements
